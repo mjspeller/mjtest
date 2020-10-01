@@ -1,4 +1,4 @@
-package mjshelper
+package marks
 
 import (
 	"fmt"
