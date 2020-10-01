@@ -1,5 +1,5 @@
 
-go mod init github.com/mjspeller/mjtest
+go mod init github.com/mjspeller/mjtest/modules/mjshelper
 go build ./modules/mjshelper/
 #go build Test_terraform_module_test.go
 dep init
